@@ -1,6 +1,6 @@
 # Internal-Audit-SQL-Analysis
 SQL ve Python kullanarak gerçekleştirdiğim İç Denetim ve Hile Tespit Simülasyonu
-# 🕵️‍♂️ Internal Audit & Fraud Detection Simulation (SQL & Python)
+# 🕵 Internal Audit & Fraud Detection Simulation (SQL & Python)
 
 Bu proje, orta ölçekli bir ticaret şirketinin 100.000 satırlık **Yevmiye Defteri (General Ledger)** verisi üzerinde gerçekleştirilmiş bir iç denetim simülasyonudur.
 
