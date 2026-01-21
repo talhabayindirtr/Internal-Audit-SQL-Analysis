@@ -4,18 +4,18 @@ SQL ve Python kullanarak gerçekleştirdiğim İç Denetim ve Hile Tespit Simül
 
 Bu proje, orta ölçekli bir ticaret şirketinin 100.000 satırlık **Yevmiye Defteri (General Ledger)** verisi üzerinde gerçekleştirilmiş bir iç denetim simülasyonudur.
 
-## 🎯 Projenin Amacı
+##  Projenin Amacı
 Veri analitiği tekniklerini kullanarak finansal verilerdeki;
 * İç kontrol zafiyetlerini,
 * Yetkisiz işlemleri,
 * Ve potansiyel hile (fraud) göstergelerini tespit etmek.
 
-## 🛠️ Kullanılan Teknolojiler
+##  Kullanılan Teknolojiler
 * **Python:** Gerçekçi ve manipüle edilmiş finansal veri seti üretimi için.
 * **PostgreSQL (SQL):** Büyük veri setinin sorgulanması ve analizi için.
 * **Excel:** Bulguların denetim standartlarına uygun raporlanması için.
 
-## 🔍 Temel Bulgular (Key Findings)
+## Temel Bulgular (Key Findings)
 
 ### 1. Hafta Sonu Yetkisiz Erişim (Weekend Activity)
 * **Senaryo:** Şirket politikasına aykırı olarak mesai saatleri dışında işlem girişi.
